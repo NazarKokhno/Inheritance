@@ -510,7 +510,7 @@ int main()
 
 	Passport passport(
 		"Nazar Kokhno",
-		"23.03.2010",
+		"23.09.2010",
 		"123456789",
 		"Ukraine",
 		"01.06.2025",
